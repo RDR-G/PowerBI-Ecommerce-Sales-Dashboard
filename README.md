@@ -33,10 +33,10 @@ This is an interactive Power BI dashboard created to analyze and visualize onlin
 
 ## 📁 Files Included
 
-| File Name                             | Description                               |
+| File Name                              | Description                               |
 |----------------------------------------|-------------------------------------------|
 | `Madhav_Ecommerce_Sales_Dashboard.pbix`| Power BI Dashboard File                   |
-| `images/`                              | Screenshot previews of the dashboard      |
+| `Ecommerce_dashboard.png`              | Screenshot previews of the dashboard      |
 | `README.md`                            | Project Overview & Documentation          |
 
 ## 📷 Dashboard Preview

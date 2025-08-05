@@ -41,7 +41,7 @@ This is an interactive Power BI dashboard created to analyze and visualize onlin
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](Ecommerce_dashboard.png)
 
 ## ✨ Project Learnings
 
